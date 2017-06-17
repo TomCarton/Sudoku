@@ -138,9 +138,9 @@ int main()
     solve(easy);
     printGrid(easy);
 
-//    printGrid(hard);
-//    solve(hard);
-//    printGrid(hard);
+    printGrid(hard);
+    solve(hard);
+    printGrid(hard);
 
     return 0;
 }
